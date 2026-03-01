@@ -6,3 +6,4 @@ function validateLogin(email, password) {
 }
 
 module.exports = validateLogin;
+// TODO: Add email format validation
